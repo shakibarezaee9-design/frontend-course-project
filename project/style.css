@@ -97,3 +97,41 @@ button {
     
 
 }
+.about {
+    background-color: white;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.about h2 {
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+footer {
+    background-color: #24384f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+@media (max-width: 768px) {
+
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cards {
+        flex-direction: column;
+    }
+
+    .card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+}
