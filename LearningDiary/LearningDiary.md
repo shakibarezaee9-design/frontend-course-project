@@ -25,3 +25,15 @@ I learned how Flexbox can be used for navigation layouts and how CSS Grid helps 
 
 ### Problems Encountered
 At first I had some problems connecting the JavaScript file correctly and placing the script tag in the right location. I also needed some practice understanding where CSS media queries should be added. After testing and fixing mistakes, the webpage started working correctly.
+---
+
+## Date: 12.05.2026
+
+### Activity
+Published the website using GitHub Pages and tested the responsive layout on different screen sizes.
+
+### Learning Outcomes
+I learned how to deploy a front-end project online using GitHub Pages. I also understood how responsive design changes the website layout on smaller devices and how GitHub repositories are connected to live deployments.
+
+### Problems Encountered
+At first the website was not displayed correctly because the project files were inside the wrong folder and there was an extra body tag in the HTML file. After fixing the file structure and updating the repository, the deployment worked correctly.
